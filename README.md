@@ -14,8 +14,6 @@
 
 src/App.js
 ```
-
-
   import Home from './html/Home'
 
   class App extends Component {
@@ -28,7 +26,6 @@ src/App.js
   }
 
   export default App;
-
 
 ```
 
